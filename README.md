@@ -6,7 +6,7 @@ Se crea una base de datos y sus relaciones entre tablas, se cargan los datos en 
 ## Contenido
 
 - Creación de la base de datos y modelado
-- poblacion de las tablas
+- Poblacion de las tablas
 - Consultas SELECT simples y complejas
 - Filtrado de datos con cláusulas WHERE, GROUP BY y HAVING
 - Ordenamiento de resultados
