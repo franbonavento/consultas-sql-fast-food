@@ -1,7 +1,7 @@
 # Realizando consultas a una base de datos
 
 Este proyecto muestra cómo realizar consultas a una base de datos utilizando SQL.  
-Se crea una base de datos y sus relaciones entre tablas, se cargan los datos en ell y se realizan consutas para obtener, filtrar y analizar información.
+Se crea una base de datos y sus relaciones entre tablas, se cargan los datos en ella y se realizan consutas para obtener, filtrar y analizar información.
 
 ## Contenido
 
